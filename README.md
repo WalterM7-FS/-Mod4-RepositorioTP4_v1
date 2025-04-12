@@ -12,4 +12,4 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
-fue impositble hacer correr el proyecto tanto en netlify, verce y render.
+WEB DONDE SE ENCUENTRA CORRIENDO EL PROYECTO: https://mod4practico4.netlify.app
